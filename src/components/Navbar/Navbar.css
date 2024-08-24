@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo-name{
+    font-size: 25px;
+    font-style: italic;
+}
+
+.navbar{
+    background-color: rgb(82, 49, 247);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;  
+}
+
+.item{
+    padding: 0 40px;
+    font-size: 18px;
+    color: white;
+}
